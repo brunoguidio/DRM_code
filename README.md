@@ -1,3 +1,3 @@
 # Research_Engineering_Codes
 
-Here I show my final codes per journal papers.
+Here I show my final codes for at least one example of each journal paper.
